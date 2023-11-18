@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "135062926015",
+    "firebase_url": "https://insolife-e4871-default-rtdb.firebaseio.com",
+    "project_id": "insolife-e4871",
+    "storage_bucket": "insolife-e4871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135062926015:android:d6b1c26c6d6089eb14cc0a",
+        "android_client_info": {
+          "package_name": "com.example.insulife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5oXo7glsIIxaMuBNJOHaiwnadNXAFXGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

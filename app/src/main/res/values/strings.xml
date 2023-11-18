@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InsoLife</string>
+
+    <string name="title1">Manage your account</string>
+    <string name="title2">Save your data</string>
+    <string name="title3">Analyze your Symptoms</string>
+    <string name="title4">Get advice</string>
+
+    <string name="description1">You should auth to use the app.\nAlso you can edit account info or delete it</string>
+    <string name="description2">You can keep your data if you will need it in the future or as a patient history</string>
+    <string name="description3">Enter your data to analyze it and predict if you have diabetes</string>
+    <string name="description4">Get advice from best doctors to know what you should do</string>
+</resources>
